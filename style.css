@@ -50,9 +50,10 @@ nav .btn{
     border-radius: 30px;
     margin-right: 7%;
 }
-/*nav .btn:hover{
+nav .btn:hover{
     background-color: black;
-}*/
+    transition: 2s;
+}
 
 .info{
     width: 100%;
